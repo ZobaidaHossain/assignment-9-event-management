@@ -1,0 +1,47 @@
+[
+    {
+      "id": 1,
+      "title": "Weddings",
+      "description": "Experience the wedding of your dreams with our comprehensive planning services. From elegant venues to exquisite decor, we ensure every detail reflects your unique love story. Our expert team will seamlessly coordinate the ceremony, reception, and all the magical moments in between. ",
+      "price": "$10,000",
+      "image_url": "https://i.ibb.co/1mYZbV7/w.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Birthday Parties",
+      "description": "Make your birthday unforgettable with our party planning expertise. From themed decorations to entertainment, we create an atmosphere of joy and celebration. Whether it's an intimate gathering or a grand bash, our team ensures a personalized and lively experience. ",
+      "price": "$500",
+      "image_url": "https://i.ibb.co/G30L1fX/birth.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Anniversaries",
+      "description": "Celebrate your enduring love with a meticulously planned anniversary event. Our services include romantic settings, gourmet dining, and thoughtful touches that capture the essence of your journey together. Let us curate an evening that honors your commitment. ",
+      "price": "$1,000",
+      "image_url": "https://i.ibb.co/G0B6tbq/ann.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Engagement Parties",
+      "description": "Embark on your journey to forever with an enchanting engagement party. We specialize in creating memorable moments that reflect your unique bond. From venue selection to thematic decor, we ensure your celebration sets the stage for a lifetime of love. ",
+      "price": "$800",
+      "image_url": "https://i.ibb.co/qpdZdCd/an.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Retirement Parties",
+      "description": "Honor a distinguished career with a heartfelt retirement party. Our services include venue arrangement, personalized tributes, and entertainment that reflects the retiree's interests. Let us create an event that marks the beginning of a well-deserved chapter of relaxation. ",
+      "price": "$700",
+      "image_url": "https://i.ibb.co/DbNfnjz/r.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Baby Shower",
+      "description": "Celebrate the upcoming arrival of your little one with a joyous baby shower. Our services encompass creative themes, adorable decorations, and fun activities for friends and family. We ensure a warm and welcoming environment to share in the excitement of this special occasion. ",
+      "price": "$400",
+      "image_url": "https://i.ibb.co/94qnJRW/b.jpg"
+    }
+  ]
+
+
+
