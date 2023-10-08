@@ -31,6 +31,7 @@ const Home = () => {
 </div>
 <div className="grid justify-items-center m-5 ">
          <button className="btn btn-neutral rounded-none ">Special SERVICES</button> 
+         <p className="m-3 text-xl font-bold">We provide these special services:</p>
 <Special></Special>
          </div>
          <div className="grid justify-items-center m-5  ">
