@@ -18,10 +18,11 @@ console.log(greetign);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: A
 
 <i>Write your explanation here</i>
-
+Answer is A.
+- the console.log() function is used to print the value of the variable greetign to the console. Since greetign is an empty object, the output will be {}.
 </p>
 </details>
 
@@ -43,10 +44,11 @@ sum(1, "2");
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
 <i>Write your explanation here</i>
-
+Answer is C="12".
+-Because here sum function call with two argument. here one argument is number but another argument is string.so can not convert this string value to number.
 </p>
 </details>
 
@@ -67,12 +69,15 @@ console.log(food);
 - D: `ReferenceError`
 
 <details><summary><b>Answer</b></summary>
+
 <p>
 
-#### Answer: ?
+#### Answer: A
 
 <i>Write your explanation here</i>
-
+Answer is A.
+-Because The const keyword is used to declare constant variables.
+Constant variables cannot be reassigned once they have been initialized. Even the value of a constant variable can be changed if it is an object.
 </p>
 </details>
 
@@ -94,10 +99,10 @@ console.log(sayHi());
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: B
 
 <i>Write your explanation here</i>
-
+-Because sayHi function is called without any argument. And name parameter is undefined.
 </p>
 </details>
 
@@ -122,9 +127,9 @@ console.log(count);
 <details><summary><b>Answer</b></summary>
 <p>
 
-#### Answer: ?
+#### Answer: C
 
 <i>Write your explanation here</i>
-
+-here count value is incremented three times,and print the count value after finishing the loop.so resulting in a final value of 3.
 </p>
 </details>
