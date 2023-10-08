@@ -10,7 +10,7 @@ const News = () => {
         <div className="hero-content flex-col lg:flex-row">
           <img src={decodedImageUrl}className="max-w-sm rounded-lg shadow-2xl" />
           <div>
-            <h1 className="text-5xl font-bold">{title}</h1>
+            <h1 className="text-5xl font-bold">Event: {title}</h1>
             <p className="py-6">{description}</p> 
             <button className="btn btn-neutral">price: {price}</button> 
           </div>
